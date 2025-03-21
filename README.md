@@ -1,4 +1,5 @@
 # Python Basics and Data Structures
+![mkd8y89i](https://github.com/user-attachments/assets/97817d73-2457-41cf-a5c2-e379a44a74e2)
 
 This notebook covers basic Python concepts and data structures, including:
 
